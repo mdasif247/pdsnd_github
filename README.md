@@ -20,3 +20,7 @@ Display most common month,day of week and hour of day.most common start station,
 total travel time,average travel time,counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago).
+
+### Note1
+please check if you are running a condition based on column names since some columns do not exist in  washington.csv
+
