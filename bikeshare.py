@@ -151,13 +151,13 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
-        if restart.lower() != 'yes':
+        restart = input('\nWould you like to restart? Enter yes or no.\n').lower()
+        if restart!= 'yes':
             break
         else:
             print(df.head())
             c=10
-            while restart.lower()=='yes':
+            while restart=='yes':
                 restart = input('\nWould you like to restart? Enter yes or no.\n')
                 print(df.head(c))
                 c+=5
