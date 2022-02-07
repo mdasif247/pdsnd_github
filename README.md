@@ -24,3 +24,5 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 ### Note1
 please check if you are running a condition based on column names since some columns do not exist in  washington.csv
 
+### Note2
+Display only 5 rows subsequently when the user wants more information avoid displaying more than 5 rows of data.
