@@ -15,3 +15,8 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### bikeshare.py
+Display most common month,day of week and hour of day.most common start station,end station and trip from start to end (i.e., most frequent combination of start station and end station)
+total travel time,average travel time,counts of each user type
+counts of each gender (only available for NYC and Chicago)
+earliest, most recent, most common year of birth (only available for NYC and Chicago).
